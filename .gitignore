@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+# Generated pipeline artifacts (regenerated locally / by pipeline runs)
+*.parquet
+*.joblib
+image_uri.txt
+endpoint_resource_name.txt
+batch_output_uri.txt
+thelook_return_pipeline.json
+
+# Credentials / secrets, if any ever land locally
+*.json.key
+service-account*.json
+.env
