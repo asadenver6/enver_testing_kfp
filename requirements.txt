@@ -1,0 +1,13 @@
+pytest
+kfp
+pandas
+pyarrow
+numpy
+joblib
+scikit-learn
+xgboost
+google-cloud-bigquery
+google-cloud-aiplatform
+google-cloud-storage
+google-cloud-build
+db-dtypes
