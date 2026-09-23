@@ -34,3 +34,4 @@ class FakeMetrics:
 
     def log_metric(self, key, value):
         self.metadata[key] = value
+# testing PR workflow
